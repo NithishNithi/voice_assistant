@@ -16,10 +16,10 @@ Assistant Skills<br>
 11.Tells the daily news (e.g 'Jarvis tell me today news')<br>
 12.Spells a word (e.g 'Jarvis spell me the word animal')<br>
 13.Creates a reminder (e.g 'Jarvis create a 10 minutes reminder')<br>
-Opens linux applications (e.g 'Jarvis open bash/firefox')<br>
-Tells everything it can do (e.g 'Jarvis tell me your skills or tell me what can you do')<br>
-Tells the current location (e.g 'Jarvis tell me your current location')<br>
-Tells how much memory consumes (e.g 'Jarvis tell me your memory consumption)<br>
+14.Opens linux applications (e.g 'Jarvis open bash/firefox')<br>
+15.Tells everything it can do (e.g 'Jarvis tell me your skills or tell me what can you do')<br>
+16.Tells the current location (e.g 'Jarvis tell me your current location')<br>
+17.Tells how much memory consumes (e.g 'Jarvis tell me your memory consumption)<br>
 Tells users commands history (e.g 'Jarvis tell me my history')<br>
 Write/tell 'remember' and enable learning mode and add new responses on demand! (e.g 'Jarvis remember')<br>
 Clear bash console (e.g 'Jarvis clear console')<br>
