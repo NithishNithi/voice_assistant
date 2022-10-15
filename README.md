@@ -20,9 +20,9 @@ Assistant Skills<br>
 15.Tells everything it can do (e.g 'Jarvis tell me your skills or tell me what can you do')<br>
 16.Tells the current location (e.g 'Jarvis tell me your current location')<br>
 17.Tells how much memory consumes (e.g 'Jarvis tell me your memory consumption)<br>
-Tells users commands history (e.g 'Jarvis tell me my history')<br>
-Write/tell 'remember' and enable learning mode and add new responses on demand! (e.g 'Jarvis remember')<br>
-Clear bash console (e.g 'Jarvis clear console')<br>
-Has help command, which prints all the skills with their descriptions (e.g 'Jarvis help')<br>
-Do basic calculations (e.g 'Jarvis (5 + 6) * 8' or 'Jarvis one plus one')<br>
-Change settings on runtime (e.g 'Jarvis change settings')<br>
+18.Tells users commands history (e.g 'Jarvis tell me my history')<br>
+19.Write/tell 'remember' and enable learning mode and add new responses on demand! (e.g 'Jarvis remember')<br>
+20.Clear bash console (e.g 'Jarvis clear console')<br>
+21.Has help command, which prints all the skills with their descriptions (e.g 'Jarvis help')<br>
+22.Do basic calculations (e.g 'Jarvis (5 + 6) * 8' or 'Jarvis one plus one')<br>
+23.Change settings on runtime (e.g 'Jarvis change settings')<br>
