@@ -3,6 +3,7 @@ Voice Assistant using Artificial Intelligence
 <br>
 <br>
 Assistant Skills<br>
+
 1.Opens a web page (e.g 'Jarvis open YouTube')<br>
 2.Play music in YouTube (e.g 'Jarvis play Mozart')<br>
 3.Increase/decrease the speakers master volume (also can set max/mute speakers volume) ** (e.g 'Jarvis volume up!')<br>
